@@ -72,3 +72,7 @@ O código segue a estrutura padrão de Activities do Android:
 ## Licença
 
 Este projeto é de cunho educacional. Sinta-se à vontade para estudar o código ou utilizá-lo como base para estudos.
+
+## Nota
+
+Este projeto foi desenvolvido originalmente como parte de um repositório acadêmico multidisciplinar e migrado para este repositório dedicado para fins de portfólio.
