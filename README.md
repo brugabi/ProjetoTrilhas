@@ -1,7 +1,3 @@
-Aqui está uma proposta de `README.md` direta e técnica, focada no que o projeto realmente faz e como rodar, sem floreios desnecessários.
-
----
-
 # Projeto Trilhas
 
 Aplicativo Android nativo desenvolvido em Java para registro, monitoramento e gerenciamento de trilhas e caminhadas ao ar livre. O projeto utiliza a API do Google Maps e serviços de localização para traçar rotas em tempo real e calcular estatísticas de desempenho.
