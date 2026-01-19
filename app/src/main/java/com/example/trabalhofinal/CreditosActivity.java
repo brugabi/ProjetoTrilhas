@@ -26,7 +26,7 @@ public class CreditosActivity extends AppCompatActivity {
         // Configurar o clique no link do GitHub do repositorio
         View btnGithub = findViewById(R.id.container_github);
         btnGithub.setOnClickListener(v -> {
-            String url = "https://github.com/brugabi/UNEB/tree/309f2e31b6e531cab0b17bc91578f49926ec9733/MOBILE/TrabalhoFinal";
+            String url = "https://github.com/brugabi/ProjetoTrilhas.git";
             Intent intent = new Intent(Intent.ACTION_VIEW);
             intent.setData(Uri.parse(url));
             startActivity(intent);
